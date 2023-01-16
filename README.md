@@ -35,10 +35,6 @@ I started computer programming with turbo pascal language in 2003. Since then, I
       <a href="">
     <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
   </a>
-      &emsp;
-  <a href="">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
-  </a>
     &emsp;
 </p>
 
@@ -55,8 +51,6 @@ I started computer programming with turbo pascal language in 2003. Since then, I
 <p align="left">
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
     &emsp;
  </p>
 
