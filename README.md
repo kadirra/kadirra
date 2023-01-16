@@ -1,6 +1,6 @@
 
 
-<h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
+<h1><p align="center">Hello, I'm Kadir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
 I'm studying Computer Engineering and Management Information
 System. Also, I am a Software Engineer Intern at Deliveryhero/Yemeksepeti Fintech which is
