@@ -2,6 +2,7 @@
 
 <h1><p align="center">Hello, I'm Kadir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
+I started computer programming with turbo pascal language in 2003. Since then, I have been interested in programming languages such as c, c++, c#, delphi, visual basic, java, kotlin, arduino. I have worked with sql, mysql, postresql, nosql and oracle databases. I started working at the Ministry of Commerce in 2015. I love to write programs, learn and use new technologies. I've been developing myself on spring boot, selenium lately.
 
 
 
