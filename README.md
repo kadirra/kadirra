@@ -87,6 +87,15 @@ I started computer programming with turbo pascal language in 2003. Since then, I
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirra&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kadirra&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+### 🧪 Testing
+<p align="left">
+<a href="">
+<img alt="Java" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</a>  
+</p>
+<hr>
+
+
 <br><br><br><br><br>
 
 <hr>
