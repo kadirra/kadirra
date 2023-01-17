@@ -24,31 +24,27 @@ I started computer programming with turbo pascal language in 2003. Since then, I
 
 <p align="left"> 
   &emsp;
-  <a href="" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
-   </a>
-  &emsp;
-  <a href="">
+  <a href="#">
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
   </a>
     &emsp;
-      <a href="">
+      <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
   </a>
     &emsp;
-        <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+      <a href="#">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
     &emsp;
-      <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+      <a href="#">
+    <img alt="Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
     &emsp;
-      <a href="">
+      <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
     &emsp;
-      <a href="">
+      <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
 </p>
@@ -68,18 +64,18 @@ I started computer programming with turbo pascal language in 2003. Since then, I
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://github.com/kadirra"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
   &emsp;
-  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     &emsp;
-  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>  
+  <a href="#"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>  
   &emsp;
-  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
  </p>
  
 ### 🧪 Testing
 <p align="left">
-<a href="https://github.com/kadirra">
+<a href="#">
 <img alt="Java" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </a>  
 </p>
