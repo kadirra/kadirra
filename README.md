@@ -2,7 +2,7 @@
 
 <h1><p align="center">Hello, I'm Kadir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I started computer programming with turbo pascal language in 2003. Since then, I have been interested in programming languages such as c, c++, c#, delphi, visual basic, java, kotlin, arduino. I have worked with sql, mysql, postresql, nosql and oracle databases. I started working at the Ministry of Commerce in 2015. I love to write programs, learn and use new technologies. Recently I've been improving myself in robotic coding, spring boot, selenium. I am a final year Computer Engineering student.
+I started computer programming with turbo pascal language in 2003. Since then, I have been interested in programming languages such as c, c++, c#, delphi, visual basic, java, kotlin, python, arduino. I have worked with sql, mysql, postresql, nosql and oracle databases. I started working at the Ministry of Commerce in 2015. I love to write programs, learn and use new technologies. Recently I've been improving myself in robotic coding, spring boot, selenium. I am a final year Computer Engineering student.
 
 
 
@@ -46,6 +46,8 @@ I started computer programming with turbo pascal language in 2003. Since then, I
    <code><img height="50" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></code>
   <code><img height="50" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></code>
   <code><img height="50" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></code>
 
 </p>
 
