@@ -57,7 +57,9 @@ I started computer programming with turbo pascal language in 2003. Since then, I
   &emsp;
   <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     &emsp;
-  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>  
+  &emsp;
+  <a href="https://github.com/kadirra"><img alt="GitHub Pages" height="30" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
  </p>
 
 
