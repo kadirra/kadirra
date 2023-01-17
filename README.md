@@ -41,11 +41,11 @@ I started computer programming with turbo pascal language in 2003. Since then, I
   </a>
     &emsp;
       <a href="#">
-    <img alt="Java" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="Cplusplus" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
     &emsp;
       <a href="#">
-    <img alt="Java" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
 </p>
 
