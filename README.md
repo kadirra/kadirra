@@ -79,14 +79,13 @@ I started computer programming with turbo pascal language in 2003. Since then, I
  
 ### 🧪 Testing
 <p align="left">
-<a href="">
+<a href="https://github.com/kadirra">
 <img alt="Java" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </a>  
 </p>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirra&theme=algolia" alt="kadirra"  /></p>
-
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
