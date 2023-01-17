@@ -42,8 +42,8 @@ I started computer programming with turbo pascal language in 2003. Since then, I
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-   <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>   
+   <code><img height="50" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></code>
 
 </p>
 
